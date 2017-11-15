@@ -140,9 +140,12 @@ hr {
   height:64px;
   width:64px;
   opacity: 0.7;
+  transition: all 1s;
 }
 .social img:hover{
   height:71px;
   width:71px;
   opacity:1;
+  transform:  rotate(-360deg);
+
 }
