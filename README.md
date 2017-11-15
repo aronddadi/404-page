@@ -2,4 +2,4 @@
 
 Basic html 404page
 
-[Click here] (https://aronddadi.github.io/404-page/)
+[Click here](https://aronddadi.github.io/404-page/)
