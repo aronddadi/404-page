@@ -31,7 +31,7 @@ a{
 }
 .four {
   padding-left:24%;
-  content:url('404.png');
+  content:url('../img/404.png');
   height:30%;
   width:50%;
 }
@@ -130,7 +130,7 @@ hr {
 }
 
 .facebook{
-  content:url('face.png');
+  content:url('../img/face.png');
   height: 64px;
   width:64px;
   opacity:0.8;
@@ -144,7 +144,7 @@ hr {
 }
 
 .twitter{
-  content:url('twit.png');
+  content:url('../img/twit.png');
   height:64px;
   width:64px;
   opacity:0.8;
@@ -157,7 +157,7 @@ hr {
 }
 
 .linkedin{
-  content:url('link.png');
+  content:url('../img/link.png');
   height:64px;
   width:64px;
   opacity:0.8;
@@ -170,7 +170,7 @@ hr {
 }
 
 .mail{
-  content:url('google.png');
+  content:url('../img/google.png');
   height:64px;
   width:64px;
   opacity:0.8;
@@ -183,7 +183,7 @@ hr {
 }
 
 .youtube{
-  content:url('yout.png');
+  content:url('../img/yout.png');
   height:64px;
   width:64px;
   opacity:0.8;
